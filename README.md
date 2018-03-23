@@ -23,7 +23,8 @@ Sau khi học ta có thể thiết kế giao diện web size sửa dụng [drow.
 ## Kiến thức nắm được
 
 + Nắm được cách chia bố cục cơ bản.
-+ Nắm được cách sử dụng drow.io cơ bản.
++ Nắm được cách sử dụng drow.io cơ bản. 
++ Scratchpad là một không gian làm việc tạm thời để giữ các hình dạng thường sử dụng để truy cập dễ dàng.
 
 ## Credit
 
